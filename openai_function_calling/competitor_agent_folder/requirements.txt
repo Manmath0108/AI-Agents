@@ -1,0 +1,5 @@
+exa_py==1.7.1
+firecrawl_py==1.9.0
+duckduckgo_search==7.2.1
+phidata
+streamlit==1.41.1
