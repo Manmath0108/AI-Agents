@@ -1,0 +1,10 @@
+psycopg2-binary 
+pandas 
+sqlalchemy 
+openai 
+anthropic 
+python-dotenv 
+langchain 
+langchain-openai 
+langchain-anthropic
+ipywidgets
